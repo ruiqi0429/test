@@ -9,5 +9,7 @@ package com.ruiqi;
 public class demo {
     public static void main(String[] args) {
         System.out.println("测试一下");
+        System.out.println("新员工修改了");
+
     }
 }
